@@ -1,0 +1,12 @@
+Windows
+8GB
+Lenovo
+1TB
+Linux
+4GB
+Hp
+500GB
+MacOS
+16GB
+Apple
+1TB
